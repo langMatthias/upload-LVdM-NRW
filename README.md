@@ -15,7 +15,7 @@ Heute wird’s auch praktisch – mit dem Prinzip „1 – 3 – 9 – All“. D
 > Entscheidet euch dabei für eine Idee, die ihr in der nächsten Runde weiterverfolgen wollt.
 
 - 9 Minuten im Austausch zu neunt
-> Entscheidet euch dabei für eine finale Idee, gebt ihr einen Namen legt eine Person fest, die die Idee in der großen Runde vorstellen wird.
+> Entscheidet euch dabei für eine finale Idee, gebt ihr einen Namen und legt eine Person fest, die die Idee in der großen Runde vorstellen wird.
 
 Danach: Elevator Pitches (1 Minute) 
 > Jede Gruppe stellt ihre Idee in der großen Runde vor.
