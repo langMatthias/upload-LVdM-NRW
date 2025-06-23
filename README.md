@@ -2,7 +2,7 @@
 # up:load | Der LVdM NRW Digital-Talk <br>"KI verstehen, Musik neu denken!" am 25. Juni 2025
 
 ## KI-Glossar
-Ein Glossar mit den wichtigsten Begriffen rund um Künstliche Intelligenz (KI) in der Musikpädagogik findet sich im [Glossar](glossar.md).
+Ein Glossar mit den wichtigsten Begriffen rund um Künstliche Intelligenz (KI) in der Musikpädagogik findet sich [hier](glossar.md).
 
 
 ## Praktischer Teil: 1-3-9-All
