@@ -23,7 +23,7 @@ Danach: Elevator Pitches (1 Minute)
 > Jede Gruppe stellt ihre Idee in der großen Runde vor.
 
 ### Fragestellungen für die Reflexion
-In unserer Reflexion wollen wir uns auf zwei Perspektiven konzentrieren:
+Bei unserem Brainstorming könnt ihr aus einer von zwei Perspektiven auswählen:
 
 - **Von der Technik zur Anwendung** (Inside-Out)  
   Ausgangspunkt sind technische Stärken und Eigenschaften von KI-Systemen.  
