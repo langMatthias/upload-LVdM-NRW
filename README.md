@@ -17,7 +17,7 @@ Heute wird’s auch praktisch – mit dem Prinzip „1 – 3 – 9 – All“. D
 - 9 Minuten im Austausch zu neunt
 > Entscheidet euch dabei für eine finale Idee, gebt ihr einen Namen und legt eine Person fest, die die Idee in der großen Runde vorstellen wird.
 
-Danach: Elevator Pitches (1 Minute) 
+- Alle: Elevator Pitches (1 Minute) 
 > Jede Gruppe stellt ihre Idee in der großen Runde vor.
 
 ### Fragestellungen für die Reflexion
@@ -25,13 +25,13 @@ Bei unserem Brainstorming könnt ihr aus einer von zwei Perspektiven auswählen:
 
 - **Von der Technik zur Anwendung** (Inside-Out)  
   Ausgangspunkt sind technische Stärken und Eigenschaften von KI-Systemen.  
-  >→ „Welche KI-Stärke können wir im Musikschulalltag nutzen?“
+  >→ Welche KI-Stärke können wir im Musikschulalltag nutzen?
   
   Eine Übersicht über die technischen Stärken von KI-Systemen findet ihr im [KI-Glossar](glossar.md).
 
 - **Vom Bedürfnis zur Anwendung** (Outside-In):  
   Ausgangspunkt sind pädagogische Bedürfnisse, Wünsche und Herausforderungen im Alltag.  
-  >→ „Was fehlt uns? Wo wünschen wir uns Unterstützung?
+  >→ Wo wünschen wir uns im Musikschulalltag Unterstützung?
   
 Denkt an euren Musikpädagogik-Alltag:  
 - An welchen Stellen macht ihr immer wieder das Gleiche oder Ähnliche?  
