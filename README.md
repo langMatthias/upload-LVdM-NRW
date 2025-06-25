@@ -22,7 +22,9 @@ Heute wird’s auch praktisch – mit dem Prinzip „1 – 3 – 9 – All“. D
 - Alle: Elevator Pitches (1 Minute) 
 > Jede Gruppe stellt ihre Idee in der großen Runde vor.
 
-### Fragestellungen für die Reflexion
+### Fragestellung für die Reflexion:
+# **Wie können wir KI so einsetzen, dass sie unsere Fähigkeiten erweitert?**
+
 Bei unserem Brainstorming könnt ihr aus einer von zwei Perspektiven auswählen:
 
 - **Von der Technik zur Anwendung** (Inside-Out)  
