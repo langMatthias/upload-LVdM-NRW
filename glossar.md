@@ -18,13 +18,13 @@ Software kann man als **Künstliche Intelligenz (KI)** bezeichnen, wenn sie:
 ---
 
 ## Generelle Stärken von KI-Systemen
-- Verarbeiten große Mengen an Daten effizient  
-- Erkennen verborgene Muster oder Strukturen  
-- Lernen aus Beispielen statt Regeln  
-- Personalisieren Inhalte für individuelle Nutzer
-- Arbeiten rund um die Uhr (z. B. als Assistenten)  
-- Automatisieren repetitive Aufgaben 
-- Unterstützen den kreativen Prozess mit Vorschlägen oder Varianten
+- Verarbeiten **große Mengen an Daten** effizient  
+- Erkennen **verborgene Muster** oder Strukturen  
+- **Lernen aus Beispielen** statt Regeln  
+- **Personalisieren Inhalte** für individuelle Nutzer
+- Arbeiten **rund um die Uhr** (z. B. als Assistenten)  
+- Automatisieren **repetitive Aufgaben**
+- Unterstützen den kreativen Prozess mit **Vorschlägen oder Varianten**
 
 
 ## Architekturen
